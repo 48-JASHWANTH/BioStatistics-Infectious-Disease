@@ -90,19 +90,3 @@ The primary dataset used is "Infectious Disease 2001-2014.csv" which contains in
    ```
 3. Run individual analysis scripts or the comprehensive `cs_cbp.py` file
 4. Modify parameters as needed for different diseases, counties, or time periods
-
-## Future Work
-- Incorporate machine learning models for disease prediction
-- Expand analysis to more recent data
-- Develop interactive dashboards for visualization
-- Include vaccination data to analyze its impact on disease rates
-- Extend SIR modeling to include more complex compartmental models (SEIR, etc.)
-
-## Contributors
-- Your Name/Organization
-
-## License
-[Specify your license information]
-
-## Acknowledgments
-- Data sources and any relevant acknowledgments
